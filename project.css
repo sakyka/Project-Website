@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+.container h1{
+   font-size: 75px;
+   margin-top: 12%;
+   color:white
+}
+
+.container button{
+  background: #393939;
+   border:0;
+   outline:none;
+    padding:15px 35px; 
+    color:#fff;
+    margin-top: 25px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+body{
+    min-height: 100vh;
+    width:100%;
+    background-color:black;
+    background-image:url("background.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    padding:0 8%; 
+
+
+}
