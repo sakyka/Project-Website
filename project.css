@@ -73,8 +73,10 @@ footer {
     font-weight: 500;
     letter-spacing: 1px;
     cursor: pointer;
-    justify-content: center;
+   
+
 }
+
 body{
     background-color:black;
     background-image:url("background.gif");
@@ -82,3 +84,4 @@ body{
     background-repeat: no-repeat;
     background-size: 110%;
 }
+
