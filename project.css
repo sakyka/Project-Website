@@ -52,6 +52,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 99.8vw;
+
 }
 
 .container h2{
@@ -64,17 +65,44 @@ footer {
 }
 
 .container button{
-  background: #393939;
+  background: #8453b0;
    border:0;
    outline:none;
     padding:15px 35px; 
     color:#fff;
-    margin-top: 25px;
     font-weight: 500;
     letter-spacing: 1px;
     cursor: pointer;
-   
+    
 
+}
+form{
+
+    position: absolute;
+    left: 42.5%;
+   top:44%;
+}
+
+
+input{
+
+border-radius: 8px;
+padding:10px;
+
+
+}
+a[target=_blank]{
+background-image: url(play-circle.svg) ;
+background-repeat: no-repeat;
+background-position: top left;
+padding-left: 1.2em;
+
+position: absolute;
+    left: 46%;
+   top:49%;
+   font-size: 25px;
+   color: #fff;
+font-weight:bold
 }
 
 body{
